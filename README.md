@@ -1,2 +1,3 @@
 # Codeit
-Codeit 개념 문제 및 예제
+하루에 조금씩이라도
+Walk a day
